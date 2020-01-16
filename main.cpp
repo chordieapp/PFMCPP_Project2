@@ -15,7 +15,12 @@ video: Chapter 2 - Part 3
  put them here: 
  
  
- 
+ float
+ int 
+ double
+ char
+ bool
+ void
  
  
  
